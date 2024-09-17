@@ -39,8 +39,8 @@ I'm a **Front-End Developer** with a passion for creating visually engaging and 
 
 ## Where to find me
 
-<a href="mailto:shadman.alizada@gmail.com">![Gmail](https://img.shields.io/static/v1?style=flat&message=shadman.alizada@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)
+<a href="mailto:zapekin.nikita1@gmail.com">![Gmail](zapekin.nikita1@gmail.com)
 </a>
-[![LinkedIn](https://img.shields.io/static/v1?style=flat&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/shadman-alizada/)
+[![LinkedIn](https://www.linkedin.com/in/nikita-zapekin-309b42266/)
 
 <!-- [![Facebook](https://img.shields.io/static/v1?style=flat&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)](https://www.facebook.com/) -->
